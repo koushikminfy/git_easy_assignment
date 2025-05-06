@@ -3,3 +3,6 @@ It allows multiple developers to collaborate on the same project without overwri
 Git stores code history as a series of commits, making it easy to review or revert changes.
 Branches in Git let you experiment with features without affecting the main codebase.
 Git integrates with platforms like GitHub to enable remote collaboration and code sharing.
+
+Git allows multiple people to work on the same project without conflicts.
+It makes team coordination and version tracking much easier.
