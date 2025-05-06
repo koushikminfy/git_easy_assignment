@@ -19,4 +19,6 @@ I made **3 meaningful changes** to `notes.txt`, each committed separately with c
 
 ### 📸 Git Log Screenshot
 git-log.png
-screenshot was given in repository only, can be opened
+screenshot was given in repository and 
+![git-log](https://github.com/user-attachments/assets/c64aa94c-bba6-4e00-ae1a-22afc51af6a2)
+![pull request ss](https://github.com/user-attachments/assets/cc03f854-202c-4816-99bb-ee94609ab0d5)
