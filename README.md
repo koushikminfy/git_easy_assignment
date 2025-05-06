@@ -21,3 +21,8 @@ I made **3 meaningful changes** to `notes.txt`, each committed separately with c
 git-log.png
 screenshot was given in repository only, can be opened
 
+
+
+
+
+This repository is for learning Git and GitHub basics.
